@@ -53,7 +53,7 @@ n8n-aws-docker-nginx/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/your-username/n8n-aws-docker-nginx.git
+git clone https://github.com/sanjayt-1503/n8n-aws-docker-nginx.git
 cd n8n-aws-docker-nginx
 ```
 
